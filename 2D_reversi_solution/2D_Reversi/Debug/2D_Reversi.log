@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\source\repos\2d_reversi\2d_reversi\main.cpp(385): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\2d_reversi\2d_reversi\main.cpp(391): warning C4018: '<': signed/unsigned 不相符
+  2D_Reversi.vcxproj -> C:\Users\user\source\repos\2D_Reversi\Debug\2D_Reversi.exe
