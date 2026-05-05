@@ -2,6 +2,9 @@
 
 一款使用 C++ 與 SDL2 開發的 2D Othello/Reversi 遊戲。
 
+## Demo 影片
+[![2D Reversi Demo](https://img.youtube.com/vi/Ty7sr9AN0Ro/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ty7sr9AN0Ro)
+
 ## 功能
 
 - **遊戲模式**
