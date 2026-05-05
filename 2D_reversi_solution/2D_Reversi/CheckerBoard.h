@@ -40,7 +40,7 @@ private:
 	
 	Piece p[Xsize][Ysize];
 
-	bool darkHint;
+void setPos(int x, int y);
 	bool lightHint;
 	void showUI(bool isBot,SDL_Renderer *gRenderer);
 	int checkpoint();

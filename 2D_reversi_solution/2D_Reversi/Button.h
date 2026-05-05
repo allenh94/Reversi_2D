@@ -11,13 +11,13 @@ public:
 	Button();
 
 	~Button();
-	bool checkClick(SDL_Event* e);
-	bool isOn;
-	void show(SDL_Renderer *gRenderer);
-	LTexture text[2];
-	void setPos(int x, int y);
 	int x;
 	int y;
+	bool isOn;
+	LTexture text[2];
+	void show(SDL_Renderer *gRenderer);
+	void setPos(int x, int y);
+	bool checkClick(SDL_Event* e);
 	
 };
 

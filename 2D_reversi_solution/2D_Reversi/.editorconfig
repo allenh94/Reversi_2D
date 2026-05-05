@@ -1,0 +1,5 @@
+# Rules in this file were initially inferred by Visual Studio IntelliCode from the H:\Document\Study\Project\B10615015_Reversi_2D_ver1\2D_reversi_solution\2D_Reversi\ codebase based on best match to current usage at 2022/9/29
+# You can modify the rules from these initially generated values to suit your own policies
+# You can learn more about editorconfig here: https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference
+[*.cs]
+
